@@ -40,8 +40,6 @@ class ViewController: UIViewController, UIScrollViewDelegate, UITableViewDelegat
         tableView.registerClass(UITableViewCell.self, forCellReuseIdentifier: "cell")
         
         
-        
-        //tset//
     }
     
     
