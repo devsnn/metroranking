@@ -41,9 +41,6 @@ class ViewController: UIViewController, UIScrollViewDelegate, UITableViewDelegat
         
         // test2
         
-        // test 3
-        
-        
     }
     
     
